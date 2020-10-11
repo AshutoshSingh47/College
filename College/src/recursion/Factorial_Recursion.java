@@ -15,7 +15,6 @@ public class Factorial_Recursion {
 		System.out.println("\n"+iterator(5));
 		
 		
-		
      }
 	
 	
